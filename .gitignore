@@ -1,0 +1,11 @@
+# Dependencies & Agent configurations
+node_modules/
+.agent/
+.agents/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS metadata
+Thumbs.db
+.DS_Store
